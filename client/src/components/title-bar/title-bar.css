@@ -1,0 +1,9 @@
+.titleBar__wrap {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+.titleBar__wrap h4 {
+ color: white;
+}
